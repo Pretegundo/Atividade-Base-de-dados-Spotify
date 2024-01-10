@@ -43,7 +43,7 @@ internal class Program
         stopwatch.Start();
         //ESCOLHA O METODO DE ORDENACAO
 
-        troca = 0;//tem que zerar a troca e a comp fora do quick pq ele é recusivo
+        troca = 0;//tem que zerar a troca e a comp fora do quick pq ele é recursivo
         comp = 0;
         //Ordenacao.quickSort(dados, 0, dados.Count - 1, ref comp, ref troca);
         //Ordenacao.shellSort(dados, ref comp, ref troca); 
