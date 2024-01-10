@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Base de Dados Spotify", "Base de Dados Spotify\Base de Dados Spotify.csproj", "{E0F028F1-A1A9-4B44-B7BA-37152E13FBF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0F028F1-A1A9-4B44-B7BA-37152E13FBF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0F028F1-A1A9-4B44-B7BA-37152E13FBF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0F028F1-A1A9-4B44-B7BA-37152E13FBF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0F028F1-A1A9-4B44-B7BA-37152E13FBF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B75039F1-03AF-4965-90E3-27A085BB927B}
+	EndGlobalSection
+EndGlobal
